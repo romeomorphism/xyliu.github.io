@@ -3,6 +3,9 @@
 You can use the [editor on GitHub](https://github.com/romeomorphism/xyliu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Useful Material 
+- Probabilty: Theory and Examples, R.Durrett (available [here](https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf))
+- Differential Equations: Equations Différentielles Ordinaires Equations aux Dérivées Partielles, F.Boyer (available [here](http://www.math.univ-toulouse.fr/~fboyer/_media/enseignements/m1edoedp/poly_edo-edp_m1.pdf))
 
 ### Markdown
 
