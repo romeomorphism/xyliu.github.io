@@ -31,6 +31,10 @@ Bachelor of Applied Mathematics
 - Probabilty: Theory and Examples, R.Durrett (available [here](https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf))
 - Differential Equations: Equations Différentielles Ordinaires Equations aux Dérivées Partielles, F.Boyer (available [here](http://www.math.univ-toulouse.fr/~fboyer/_media/enseignements/m1edoedp/poly_edo-edp_m1.pdf))
 
+### Preprints
+
+- _Linear Multistep Method_, Master 1 project with Eliott Dupuis and Benjamin Massat, supervised by [Jean-François Coulombel](https://www.math.univ-toulouse.fr/~jcoulomb/), available [here](M1_Project__multisteps_methods.pdf).
+
 ### Contact
 **Email**: xyliu0831@gmail.com
 
