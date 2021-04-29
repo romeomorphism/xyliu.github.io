@@ -9,10 +9,19 @@ I obtained my bachelor's degree in Mathematics from [Wuhan University](https://w
 My chinese name is 刘昕宇. 
 
 ### Education
+<img align="left" width="65" height="55" src="HKUST.svg"/>
 **Hong Kong University of Science and Technology** (Aug 2021 -- present)
 
-![UPS](UPS.svg) **Université Paul-Sabatier** (Sept 2020 -- Jun 2021)
+PhD Student in Applied Mathematics
+ 
 
+<img align="left" width="65" height="55" 
+src="UPS.svg"/>
+**Université Paul-Sabatier** (Sept 2020 -- Jun 2021)
+
+Master 1 student in MSR
+
+<img align="left" width="65" height="75" src="WHU.svg"/>
 **Wuhan University** (Sept 2017 -- Jun 2021)
 
 Bachelor of Applied Mathematics
