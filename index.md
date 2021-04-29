@@ -8,10 +8,22 @@ I obtained my bachelor's degree in Mathematics from [Wuhan University](https://w
 
 My chinese name is 刘昕宇. 
 
+### Education
+**Hong Kong University of Science and Technology** (Aug 2021 -- present)
+
+![UPS](UPS.svg) **Université Paul-Sabatier** (Sept 2020 -- Jun 2021)
+
+**Wuhan University** (Sept 2017 -- Jun 2021)
+
+Bachelor of Applied Mathematics
+
 ### Useful Material 
 
 - Probabilty: Theory and Examples, R.Durrett (available [here](https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf))
 - Differential Equations: Equations Différentielles Ordinaires Equations aux Dérivées Partielles, F.Boyer (available [here](http://www.math.univ-toulouse.fr/~fboyer/_media/enseignements/m1edoedp/poly_edo-edp_m1.pdf))
+
+### Contact
+**Email**: xyliu0831@gmail.com
 
 
 
