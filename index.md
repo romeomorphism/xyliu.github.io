@@ -12,14 +12,14 @@ My chinese name is 刘昕宇.
 <img align="left" width="170" height="55" src="HKUST.svg"/>
 **Hong Kong University of Science and Technology** (Aug 2021 -- present)
 
-PhD Student in Applied Mathematics
+PhD in Applied Mathematics
  
 
 <img align="left" width="170" height="55" 
 src="UPS.svg"/>
 **Université Paul-Sabatier** (Sept 2020 -- Jun 2021)
 
-Master 1 student in MSR
+M1 Enseignement Supérieur et Recherche
 
 <img align="left" width="170" height="75" src="WHU.svg"/>
 **Wuhan University** (Sept 2017 -- Jun 2021)
